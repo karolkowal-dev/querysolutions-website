@@ -88,7 +88,7 @@ nav a:hover::after, nav a.active::after { width: 100%; }
 .hero {
     background: var(--gradient-dark);
     color: white;
-    padding: 6rem 1.5rem;
+    padding: 3rem 1.5rem;
     text-align: center;
 }
 
